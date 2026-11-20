@@ -1,4 +1,4 @@
 # React + Vite
 
 プレビュー  
-https://stackblitz.com/~/github.com/KisumiSakurai/darktema
+https://stackblitz.com/~/github.com/KisumiSakurai/react_darktema
